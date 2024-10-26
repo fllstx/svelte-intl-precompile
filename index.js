@@ -1,1 +1,1 @@
-export * from 'precompile-intl-runtime';
+export * from '@fullstax/precompile-intl-runtime';

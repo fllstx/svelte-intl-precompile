@@ -1,5 +1,5 @@
 declare module 'svelte-intl-precompile' {
-  export * from 'precompile-intl-runtime';
+  export * from '@fullstax/precompile-intl-runtime';
 }
 
 declare module '$locales' {
